@@ -1,0 +1,5 @@
+{
+  "name": "AI ISO Builder",
+  "description": "An application that uses generative AI to create a build script for a custom, bootable Linux ISO with VS Code pre-installed.",
+  "requestFramePermissions": []
+}
